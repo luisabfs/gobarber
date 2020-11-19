@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/luisabfs/gobarber-web
+[submodule "backend"]
+	path = backend
+	url = https://github.com/luisabfs/gobarber-node
